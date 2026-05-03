@@ -1,6 +1,6 @@
 <div align="center">
 
-# Massu Hora
+# massuhora
 
 **Full-stack Developer (TypeScript / Node.js)**
 
