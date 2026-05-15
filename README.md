@@ -38,6 +38,6 @@ Football · Music · Movies
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-massuhora-333?style=flat-square&logo=github)](https://github.com/massuhora)
+[![GitHub](https://img.shields.io/badge/GitHub-caztangpro-333?style=flat-square&logo=github)](https://github.com/caztangpro)
 
 </div>
